@@ -1,8 +1,9 @@
-- 👋 Olá, sou @AlexEuzebio
-- 👀 Meus interesses são desenvolvimento de software e design
-- 🌱 Acabei de concluir o Bootcamp Everis Kotlin na DIO e estou desenvolvendo um projeto utilizando os conceitos aprendidos, que será postado aqui em breve
-- 🌱 Também estou desenvolvendo um projeto em Unity (C#)
-- 📫 Me contacte pelo email: alex.euzebio@gmail.com
+- Olá, sou @AlexEuzebio
+- Meus interesses: desenvolvimento de sistemas/games e design
+- Tecnologias:
+- > 27 anos em desenvolvimento xHarbour
+- > Solidificando conhecimentos em Kotlin, Android, Unity, .NET/C#
+- Email: alex.euzebio@gmail.com
 
 <!---
 AlexEuzebio/AlexEuzebio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
