@@ -1,8 +1,10 @@
 - Olá, sou @AlexEuzebio
 - Meus interesses: desenvolvimento de sistemas/games e design
 - Tecnologias:
-- > 27 anos em desenvolvimento xHarbour
-- > Solidificando conhecimentos em Kotlin, Android, Unity, .NET/C#
+- > Desktop: xHarbour/Delphi/SqlServer
+- > Mobile: Kotlin
+- > FrontWeb: ReactJS, Bootstrap
+- > Games: Unity
 - Email: alex.euzebio@gmail.com
 
 <!---
