@@ -1,7 +1,7 @@
 - Olá, sou @AlexEuzebio
 - Tecnologias:
 - > Frontend: ReactJS, Bootstrap
-- > Desktop: xHarbour/Delphi/SqlServer
+- > Desktop: xHarbour/Delphi/Sql
 - Email: alex.euzebio@gmail.com
 
 <!---
